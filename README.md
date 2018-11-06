@@ -10,7 +10,7 @@ Apache Storm 是一个免费的，开源的，分布式的实时计算系统.
 [github](https://github.com/apachecn/storm-doc-zh/): <https://github.com/apachecn/storm-doc-zh/>  
 [ApacheCN](http://www.apachecn.org): <http://storm.apachecn.org/releases/cn/1.1.0>
 
-维护地址: [Storm 1.1.0 官方文档中文版](http://storm.apachecn.org/releases/cn/1.1.0): [http://storm.apachecn.org/releases/cn/1.1.0](http://storm.apachecn.org/releases/cn/1.1.0)
+[EPUB 格式](https://github.com/apachecn/storm-doc-zh/raw/dl/Storm%201.1.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
 
 ## 历史版本
 [Storm 1.1.0 官方文档中文版](http://storm.apachecn.org/releases/cn/1.1.0) 整体翻译进度为 96%，更多细节请看 <http://storm.apachecn.org/releases/cn/1.1.0/translate-progress.html>  
